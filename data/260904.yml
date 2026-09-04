@@ -7,13 +7,13 @@ about:
   head: bb3ff51
   archived: false
   latestVersion: v0.12.0
-  collectedAt: 2026-09-04T19:21:22Z
+  collectedAt: 2026-09-04T21:16:34Z
 timeline:
   created: 2016-02-16
   lastCommit: 2026-09-01
   lastRelease: 2026-08-26
 popularity:
-  star: 8601
+  star: 8602
   watcher: 60
   fork: 380
   release: 26
@@ -84,6 +84,64 @@ total:
   openIssue: 151
   commit: 712
 ---
+path: /home/runner/.x-repo/github.com/containers/bubblewrap
+collectedAt: 2026-09-04T21:16:35Z
+loc:
+  C:
+    code: 4805
+    comments: 690
+    blanks: 1019
+    files: 8
+  Python:
+    code: 1368
+    comments: 108
+    blanks: 281
+    files: 6
+  Sh:
+    code: 1011
+    comments: 141
+    blanks: 149
+    files: 10
+  Xml:
+    code: 675
+    comments: 0
+    blanks: 6
+    files: 1
+  Meson:
+    code: 354
+    comments: 6
+    blanks: 36
+    files: 7
+  CHeader:
+    code: 289
+    comments: 56
+    blanks: 53
+    files: 4
+  ForgeConfig:
+    code: 117
+    comments: 10
+    blanks: 9
+    files: 1
+  RPMSpecfile:
+    code: 38
+    comments: 2
+    blanks: 8
+    files: 1
+  Autoconf:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 326
+    blanks: 113
+    files: 5
+total:
+  code: 8657
+  comments: 1340
+  blanks: 1674
+  files: 44
 ---
 date: "2026-08-24"
 repo:
