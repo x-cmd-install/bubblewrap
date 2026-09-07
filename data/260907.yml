@@ -2,93 +2,93 @@ about:
   description: "Low-level unprivileged sandboxing tool used by Flatpak and similar projects"
   license: NOASSERTION
   homepage: 
-  head: bb3ff51
+  head: 26bb788
   archived: false
   latestVersion: "v0.12.0"
-  collectedAt: 2026-09-07T05:05:38Z
+  collectedAt: 2026-09-07T19:28:04Z
 timeline:
   created: 2016-02-16
-  lastCommit: 2026-09-01
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-26
 popularity:
-  star: 8621
+  star: 8628
   watcher: 61
   fork: 381
   release: 26
   contributor: 73
-  pullRequest: 387
-  issue: 392
+  pullRequest: 389
+  issue: 393
 language:
-  C: 198275
+  C: 198917
   Python: 57861
   Shell: 42959
   Meson: 9379
   Emacs Lisp: 63
-totalBytes: 308537
+totalBytes: 309179
 recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 6
+    mergedPR: 8
     openPR: 4
     closedIssue: 1
-    openIssue: 4
-    commit: 12
+    openIssue: 5
+    commit: 16
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 6
+    mergedPR: 8
     openPR: 5
     closedIssue: 2
-    openIssue: 6
-    commit: 20
+    openIssue: 7
+    commit: 24
   last90d:
     since: 2026-06-09
     release: 1
-    mergedPR: 6
+    mergedPR: 8
     openPR: 6
     closedIssue: 3
-    openIssue: 6
-    commit: 23
+    openIssue: 7
+    commit: 27
   last180d:
     since: 2026-03-11
     release: 3
-    mergedPR: 11
+    mergedPR: 13
     openPR: 10
     closedIssue: 12
-    openIssue: 12
-    commit: 46
+    openIssue: 13
+    commit: 50
   last360d:
     since: 2025-09-12
     release: 3
-    mergedPR: 15
+    mergedPR: 17
     openPR: 13
     closedIssue: 23
-    openIssue: 24
-    commit: 50
+    openIssue: 25
+    commit: 54
   last720d:
     since: 2024-09-17
     release: 4
-    mergedPR: 23
+    mergedPR: 25
     openPR: 18
     closedIssue: 44
-    openIssue: 32
-    commit: 84
+    openIssue: 33
+    commit: 88
 total:
   release: 26
-  mergedPR: 138
+  mergedPR: 140
   openPR: 42
   closedIssue: 240
-  openIssue: 152
-  commit: 712
+  openIssue: 153
+  commit: 716
 ---
 path: /home/runner/.x-repo/github.com/containers/bubblewrap
-collectedAt: 2026-09-07T05:05:40Z
+collectedAt: 2026-09-07T19:28:05Z
 loc:
   C:
-    code: 4805
-    comments: 690
-    blanks: 1019
+    code: 4819
+    comments: 695
+    blanks: 1021
     files: 8
   Python:
     code: 1368
@@ -111,9 +111,9 @@ loc:
     blanks: 36
     files: 7
   CHeader:
-    code: 289
+    code: 291
     comments: 56
-    blanks: 53
+    blanks: 56
     files: 4
   ForgeConfig:
     code: 117
@@ -136,9 +136,9 @@ loc:
     blanks: 113
     files: 5
 total:
-  code: 8657
-  comments: 1340
-  blanks: 1674
+  code: 8673
+  comments: 1345
+  blanks: 1679
   files: 44
 ---
 date: "2026-09-07"
@@ -237,7 +237,7 @@ checks:
       - 'Info: all commits (14) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:05:41+00:00
+  collectedAt: 2026-09-07T19:28:06+00:00
   platform:
     darwin/arm64:
       name:  null
