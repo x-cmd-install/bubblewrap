@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.12.0"
   latestRelease: "v0.12.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:49:42Z
+  collectedAt: 2026-09-10T22:57:35Z
 timeline:
   created: 2016-02-16
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 8671
+  star: 8672
   watcher: 61
   fork: 382
   release: 26
@@ -87,7 +87,7 @@ total:
   commit: 717
 ---
 path: /home/runner/.x-repo/github.com/containers/bubblewrap
-collectedAt: 2026-09-10T20:49:44Z
+collectedAt: 2026-09-10T22:57:35Z
 loc:
   C:
     code: 4815
