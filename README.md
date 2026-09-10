@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,671 · **Forks**: 382 · **Open issues**: 393 · **Contributors**: 73
+- **Stars**: 8,672 · **Forks**: 382 · **Open issues**: 393 · **Contributors**: 73
 
 ## Totals (cumulative)
 
@@ -99,4 +99,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:49:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:57:40Z._
