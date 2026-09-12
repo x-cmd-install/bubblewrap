@@ -47,7 +47,7 @@ x install bubblewrap
 
 ## 流行度
 
-- **Star**: 8,675 · **Fork**: 382 · **开放 issue**: 393 · **贡献者**: 73
+- **Star**: 8,684 · **Fork**: 383 · **开放 issue**: 393 · **贡献者**: 73
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install bubblewrap
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 9 | 5 | 1 | 5 | 17 |
-| last60d | 2026-07-13 | 1 | 9 | 6 | 1 | 7 | 25 |
-| 90d | 2026-06-13 | 1 | 9 | 6 | 3 | 7 | 28 |
-| last180d | 2026-03-15 | 3 | 14 | 11 | 12 | 13 | 51 |
-| 360d | 2025-09-16 | 3 | 18 | 14 | 23 | 24 | 55 |
-| last720d | 2024-09-21 | 4 | 26 | 19 | 44 | 33 | 89 |
+| 30d | 2026-08-13 | 1 | 9 | 5 | 1 | 5 | 17 |
+| last60d | 2026-07-14 | 1 | 9 | 6 | 1 | 7 | 25 |
+| 90d | 2026-06-14 | 1 | 9 | 6 | 3 | 7 | 28 |
+| last180d | 2026-03-16 | 3 | 14 | 11 | 12 | 13 | 51 |
+| 360d | 2025-09-17 | 3 | 18 | 14 | 23 | 24 | 55 |
+| last720d | 2024-09-22 | 4 | 26 | 19 | 44 | 33 | 89 |
 
 ## Release 资产
 
@@ -73,13 +73,13 @@ x install bubblewrap
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/bubblewrap) 上共有 **220** 个发行版报告此项目。**63** 个 ✅ 已是最新上游版本，**134** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/bubblewrap) 上共有 **220** 个发行版报告此项目。**65** 个 ✅ 已是最新上游版本，**132** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `0.12.0` | ✅ latest |
 | Debian 14 | `0.12.0` | ✅ latest |
-| Debian 13 | `0.11.0` | 🪦 legacy |
+| Debian 13 | `0.12.0` | ✅ latest |
 | Ubuntu 26.04 LTS | `0.11.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.0` | ⚠️ outdated |
 | Arch | `0.12.0` | ✅ latest |
@@ -99,4 +99,4 @@ bubblewrap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T05:04:35Z._
+_数据快照: `data/card/260912.yml` · 2026-09-12T05:07:55Z._
