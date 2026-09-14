@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,697 · **Forks**: 383 · **Open issues**: 393 · **Contributors**: 73
+- **Stars**: 8,705 · **Forks**: 384 · **Open issues**: 393 · **Contributors**: 73
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 9 | 5 | 1 | 5 | 17 |
-| last60d | 2026-07-15 | 1 | 9 | 6 | 1 | 7 | 25 |
-| 90d | 2026-06-15 | 1 | 9 | 6 | 3 | 7 | 28 |
-| last180d | 2026-03-17 | 3 | 14 | 11 | 12 | 12 | 51 |
-| 360d | 2025-09-18 | 3 | 18 | 14 | 23 | 24 | 55 |
-| last720d | 2024-09-23 | 4 | 26 | 19 | 44 | 33 | 89 |
+| 30d | 2026-08-15 | 1 | 9 | 5 | 1 | 5 | 12 |
+| last60d | 2026-07-16 | 1 | 9 | 5 | 1 | 7 | 25 |
+| 90d | 2026-06-16 | 1 | 9 | 6 | 3 | 7 | 28 |
+| last180d | 2026-03-18 | 3 | 14 | 11 | 12 | 12 | 46 |
+| 360d | 2025-09-19 | 3 | 18 | 14 | 23 | 24 | 55 |
+| last720d | 2024-09-24 | 4 | 26 | 19 | 44 | 33 | 89 |
 
 ## Release assets
 
@@ -70,25 +70,6 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [bubblewrap-0.12.0.tar.xz](https://github.com/containers/bubblewrap/releases/download/v0.12.0/bubblewrap-0.12.0.tar.xz) | 123.5 KiB | `other` |
 | [bubblewrap-0.12.0.tar.xz.sha256sum](https://github.com/containers/bubblewrap/releases/download/v0.12.0/bubblewrap-0.12.0.tar.xz.sha256sum) | 91 B | `other` |
-
-## Distribution status
-
-Reported by **220** distros on [repology.org](https://repology.org/project/bubblewrap). **67** are ✅ on the latest upstream release, **131** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.12.0` | ✅ latest |
-| Debian 14 | `0.12.0` | ✅ latest |
-| Debian 13 | `0.12.0` | ✅ latest |
-| Ubuntu 26.04 LTS | `0.11.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.0` | ⚠️ outdated |
-| Arch | `0.12.0` | ✅ latest |
-| Homebrew | `0.12.0` | ✅ latest |
-| Fedora rawhide | `0.12.0` | ✅ latest |
-| Nix unstable | `0.11.2` | ⚠️ outdated |
-| Void | `0.12.0` | ✅ latest |
-| Alpine edge | `0.12.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.11.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -99,4 +80,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:06:28Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:20:20Z._
