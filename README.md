@@ -14,12 +14,12 @@ x install bubblewrap
 
 ## Code insight
 
-Total: **8,669** lines of code across **32** files in the top 5 languages.
+Total: **8,725** lines of code across **32** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 4,815 | 695 | 1,022 | 8 |
-| Python | 1,368 | 108 | 281 | 6 |
+| C | 4,842 | 695 | 1,026 | 8 |
+| Python | 1,397 | 110 | 290 | 6 |
 | Sh | 1,011 | 141 | 149 | 10 |
 | Xml | 675 | 0 | 6 | 1 |
 | Meson | 354 | 6 | 36 | 7 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.12.0` (2026-08-26)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-14
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,705 · **Forks**: 384 · **Open issues**: 393 · **Contributors**: 73
+- **Stars**: 8,712 · **Forks**: 386 · **Open issues**: 393 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 141 · **Open PRs**: 43 · **Closed issues**: 240 · **Open issues**: 153 · **Commits**: 717
+- **Releases**: 26 · **Merged PRs**: 143 · **Open PRs**: 44 · **Closed issues**: 241 · **Open issues**: 152 · **Commits**: 727
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 9 | 5 | 1 | 5 | 12 |
-| last60d | 2026-07-16 | 1 | 9 | 5 | 1 | 7 | 25 |
-| 90d | 2026-06-16 | 1 | 9 | 6 | 3 | 7 | 28 |
-| last180d | 2026-03-18 | 3 | 14 | 11 | 12 | 12 | 46 |
-| 360d | 2025-09-19 | 3 | 18 | 14 | 23 | 24 | 55 |
-| last720d | 2024-09-24 | 4 | 26 | 19 | 44 | 33 | 89 |
+| 30d | 2026-08-16 | 1 | 11 | 6 | 2 | 4 | 22 |
+| last60d | 2026-07-17 | 1 | 11 | 6 | 2 | 6 | 35 |
+| 90d | 2026-06-17 | 1 | 11 | 7 | 4 | 6 | 38 |
+| last180d | 2026-03-19 | 3 | 16 | 12 | 13 | 11 | 56 |
+| 360d | 2025-09-20 | 3 | 20 | 15 | 24 | 21 | 65 |
+| last720d | 2024-09-25 | 4 | 28 | 20 | 45 | 32 | 99 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:20:20Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:27:37Z._
