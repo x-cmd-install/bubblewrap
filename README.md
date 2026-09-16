@@ -26,13 +26,13 @@ Total: **8,725** lines of code across **32** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 8/25 approved changesets -- score normalized to 3
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 10/21 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.12.0` (2026-08-26)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,712 · **Forks**: 386 · **Open issues**: 393 · **Contributors**: 73
+- **Stars**: 8,733 · **Forks**: 386 · **Open issues**: 393 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 143 · **Open PRs**: 44 · **Closed issues**: 241 · **Open issues**: 152 · **Commits**: 727
+- **Releases**: 26 · **Merged PRs**: 144 · **Open PRs**: 46 · **Closed issues**: 241 · **Open issues**: 152 · **Commits**: 728
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 11 | 6 | 2 | 4 | 22 |
-| last60d | 2026-07-17 | 1 | 11 | 6 | 2 | 6 | 35 |
-| 90d | 2026-06-17 | 1 | 11 | 7 | 4 | 6 | 38 |
-| last180d | 2026-03-19 | 3 | 16 | 12 | 13 | 11 | 56 |
-| 360d | 2025-09-20 | 3 | 20 | 15 | 24 | 21 | 65 |
-| last720d | 2024-09-25 | 4 | 28 | 20 | 45 | 32 | 99 |
+| 30d | 2026-08-17 | 1 | 11 | 9 | 2 | 4 | 22 |
+| last60d | 2026-07-18 | 1 | 11 | 9 | 2 | 6 | 35 |
+| 90d | 2026-06-18 | 1 | 11 | 10 | 4 | 6 | 38 |
+| last180d | 2026-03-20 | 3 | 16 | 14 | 12 | 11 | 57 |
+| 360d | 2025-09-21 | 3 | 21 | 17 | 24 | 21 | 66 |
+| last720d | 2024-09-26 | 4 | 29 | 22 | 45 | 32 | 100 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:27:37Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:36:58Z._

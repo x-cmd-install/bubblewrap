@@ -26,13 +26,13 @@ x install bubblewrap
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.9 / 10**
+总评分: **6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 8/25 approved changesets -- score normalized to 3
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 10/21 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install bubblewrap
 ## 发布
 
 - **最新版本**: `v0.12.0` (2026-08-26)
-- **最近提交**: 2026-09-14
+- **最近提交**: 2026-09-15
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 8,712 · **Fork**: 386 · **开放 issue**: 393 · **贡献者**: 73
+- **Star**: 8,733 · **Fork**: 386 · **开放 issue**: 393 · **贡献者**: 73
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 143 · **开放 PR**: 44 · **已关闭 issue**: 241 · **开放 issue**: 152 · **提交数**: 727
+- **发布数**: 26 · **已合并 PR**: 144 · **开放 PR**: 46 · **已关闭 issue**: 241 · **开放 issue**: 152 · **提交数**: 728
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 11 | 6 | 2 | 4 | 22 |
-| last60d | 2026-07-17 | 1 | 11 | 6 | 2 | 6 | 35 |
-| 90d | 2026-06-17 | 1 | 11 | 7 | 4 | 6 | 38 |
-| last180d | 2026-03-19 | 3 | 16 | 12 | 13 | 11 | 56 |
-| 360d | 2025-09-20 | 3 | 20 | 15 | 24 | 21 | 65 |
-| last720d | 2024-09-25 | 4 | 28 | 20 | 45 | 32 | 99 |
+| 30d | 2026-08-17 | 1 | 11 | 9 | 2 | 4 | 22 |
+| last60d | 2026-07-18 | 1 | 11 | 9 | 2 | 6 | 35 |
+| 90d | 2026-06-18 | 1 | 11 | 10 | 4 | 6 | 38 |
+| last180d | 2026-03-20 | 3 | 16 | 14 | 12 | 11 | 57 |
+| 360d | 2025-09-21 | 3 | 21 | 17 | 24 | 21 | 66 |
+| last720d | 2024-09-26 | 4 | 29 | 22 | 45 | 32 | 100 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ bubblewrap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:27:38Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T05:36:59Z._
