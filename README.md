@@ -4,7 +4,7 @@
 
 Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 
-![bubblewrap](https://repo.x-cmd.io/bubblewrap.svg)
+[![x-cmd/install — bubblewrap Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bubblewrap.svg)](https://x-cmd.com/install/bubblewrap)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install bubblewrap
 
 ## Code insight
 
-Total: **8,760** lines of code across **32** files in the top 5 languages.
+Total: **8,772** lines of code across **32** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 4,866 | 695 | 1,032 | 8 |
-| Python | 1,397 | 110 | 290 | 6 |
+| Python | 1,409 | 112 | 293 | 6 |
 | Sh | 1,012 | 141 | 149 | 10 |
 | Xml | 675 | 0 | 6 | 1 |
 | Meson | 363 | 6 | 37 | 7 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.12.0` (2026-08-26)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,755 · **Forks**: 387 · **Open issues**: 395 · **Contributors**: 73
+- **Stars**: 8,775 · **Forks**: 387 · **Open issues**: 395 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 148 · **Open PRs**: 44 · **Closed issues**: 242 · **Open issues**: 153 · **Commits**: 739
+- **Releases**: 26 · **Merged PRs**: 149 · **Open PRs**: 43 · **Closed issues**: 242 · **Open issues**: 153 · **Commits**: 740
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 15 | 7 | 3 | 5 | 31 |
-| last60d | 2026-07-20 | 1 | 15 | 8 | 3 | 6 | 44 |
-| 90d | 2026-06-20 | 1 | 15 | 9 | 5 | 7 | 47 |
-| last180d | 2026-03-22 | 2 | 20 | 12 | 13 | 12 | 66 |
-| 360d | 2025-09-23 | 3 | 25 | 15 | 25 | 22 | 75 |
-| last720d | 2024-09-28 | 4 | 33 | 20 | 45 | 33 | 111 |
+| 30d | 2026-08-21 | 1 | 16 | 6 | 3 | 5 | 32 |
+| last60d | 2026-07-22 | 1 | 16 | 7 | 3 | 6 | 45 |
+| 90d | 2026-06-22 | 1 | 16 | 8 | 5 | 7 | 48 |
+| last180d | 2026-03-24 | 2 | 21 | 11 | 13 | 12 | 67 |
+| 360d | 2025-09-25 | 3 | 26 | 14 | 25 | 22 | 76 |
+| last720d | 2024-09-30 | 4 | 33 | 19 | 45 | 33 | 112 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:08:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:18:25Z._
