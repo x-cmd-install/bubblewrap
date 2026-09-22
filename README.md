@@ -14,11 +14,11 @@ x install bubblewrap
 
 ## Code insight
 
-Total: **8,772** lines of code across **32** files in the top 5 languages.
+Total: **8,774** lines of code across **32** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 4,866 | 695 | 1,032 | 8 |
+| C | 4,868 | 695 | 1,032 | 8 |
 | Python | 1,409 | 112 | 293 | 6 |
 | Sh | 1,012 | 141 | 149 | 10 |
 | Xml | 675 | 0 | 6 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.12.0` (2026-08-26)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-21
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,782 · **Forks**: 388 · **Open issues**: 395 · **Contributors**: 73
+- **Stars**: 8,788 · **Forks**: 387 · **Open issues**: 395 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 149 · **Open PRs**: 43 · **Closed issues**: 242 · **Open issues**: 153 · **Commits**: 740
+- **Releases**: 26 · **Merged PRs**: 150 · **Open PRs**: 43 · **Closed issues**: 242 · **Open issues**: 153 · **Commits**: 742
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 16 | 6 | 3 | 5 | 29 |
-| last60d | 2026-07-23 | 1 | 16 | 7 | 3 | 6 | 45 |
-| 90d | 2026-06-23 | 1 | 16 | 8 | 5 | 7 | 45 |
-| last180d | 2026-03-25 | 2 | 21 | 11 | 12 | 12 | 67 |
-| 360d | 2025-09-26 | 3 | 26 | 14 | 25 | 22 | 76 |
-| last720d | 2024-10-01 | 4 | 33 | 19 | 45 | 33 | 105 |
+| 30d | 2026-08-23 | 1 | 17 | 6 | 3 | 5 | 31 |
+| last60d | 2026-07-24 | 1 | 17 | 7 | 3 | 6 | 47 |
+| 90d | 2026-06-24 | 1 | 17 | 8 | 5 | 7 | 47 |
+| last180d | 2026-03-26 | 2 | 22 | 11 | 12 | 12 | 69 |
+| 360d | 2025-09-27 | 3 | 27 | 14 | 25 | 22 | 78 |
+| last720d | 2024-10-02 | 4 | 34 | 19 | 45 | 33 | 106 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:18:23Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:21:46Z._
