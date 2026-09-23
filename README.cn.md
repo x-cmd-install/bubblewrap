@@ -4,7 +4,7 @@
 
 Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 
-[![x-cmd/install — bubblewrap Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bubblewrap.svg?lang=zh)](https://x-cmd.com/install/bubblewrap)
+[![x-cmd/install — bubblewrap Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bubblewrap.svg?lang=zh)](https://x-cmd.com/install/bubblewrap)
 
 ## 安装
 
@@ -26,13 +26,13 @@ x install bubblewrap
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6 / 10**
+总评分: **7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 10/21 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -41,35 +41,34 @@ x install bubblewrap
 
 ## 发布
 
-- **最新版本**: `v0.12.0` (2026-08-26)
-- **最近提交**: 2026-09-21
-- **Release 含资产**: 2 个
+- **最新版本**: `v0.13.0` (2026-09-22)
+- **最近提交**: 2026-09-22
+- **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 8,788 · **Fork**: 387 · **开放 issue**: 395 · **贡献者**: 73
+- **Star**: 8,800 · **Fork**: 387 · **开放 issue**: 396 · **贡献者**: 73
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 150 · **开放 PR**: 43 · **已关闭 issue**: 242 · **开放 issue**: 153 · **提交数**: 742
+- **发布数**: 27 · **已合并 PR**: 150 · **开放 PR**: 43 · **已关闭 issue**: 245 · **开放 issue**: 151 · **提交数**: 745
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 17 | 6 | 3 | 5 | 31 |
-| last60d | 2026-07-24 | 1 | 17 | 7 | 3 | 6 | 47 |
-| 90d | 2026-06-24 | 1 | 17 | 8 | 5 | 7 | 47 |
-| last180d | 2026-03-26 | 2 | 22 | 11 | 12 | 12 | 69 |
-| 360d | 2025-09-27 | 3 | 27 | 14 | 25 | 22 | 78 |
-| last720d | 2024-10-02 | 4 | 34 | 19 | 45 | 33 | 106 |
+| 30d | 2026-08-24 | 2 | 17 | 6 | 4 | 5 | 34 |
+| last60d | 2026-07-25 | 2 | 17 | 7 | 4 | 6 | 50 |
+| 90d | 2026-06-25 | 2 | 17 | 8 | 6 | 7 | 50 |
+| last180d | 2026-03-27 | 3 | 22 | 11 | 13 | 12 | 72 |
+| 360d | 2025-09-28 | 4 | 27 | 14 | 26 | 22 | 81 |
+| last720d | 2024-10-03 | 5 | 31 | 19 | 46 | 33 | 109 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [bubblewrap-0.12.0.tar.xz](https://github.com/containers/bubblewrap/releases/download/v0.12.0/bubblewrap-0.12.0.tar.xz) | 123.5 KiB | `other` |
-| [bubblewrap-0.12.0.tar.xz.sha256sum](https://github.com/containers/bubblewrap/releases/download/v0.12.0/bubblewrap-0.12.0.tar.xz.sha256sum) | 91 B | `other` |
+| [bubblewrap-0.13.0.tar.xz](https://github.com/containers/bubblewrap/releases/download/v0.13.0/bubblewrap-0.13.0.tar.xz) | 126.2 KiB | `other` |
 
 ## 改进这些数据
 
@@ -80,4 +79,4 @@ bubblewrap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:21:47Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:35:59Z._
