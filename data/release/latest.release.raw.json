@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 129260,
       "digest": "sha256:4734237473c0e5d695e4e9034a34e43b2dbf5164655bd13fa59ae376b2b7a765",
-      "download_count": 155,
+      "download_count": 483,
       "created_at": "2026-09-22T11:40:40Z",
       "updated_at": "2026-09-22T11:40:41Z",
       "browser_download_url": "https://github.com/containers/bubblewrap/releases/download/v0.13.0/bubblewrap-0.13.0.tar.xz"
@@ -78,11 +78,11 @@
   "body": "Dependencies:\r\n\r\n  * Linux kernel headers with `__NR_pivot_root` (Linux 2.3.41+) are required at build-time on all architectures (#789).\r\n\r\n  * If compiled with `-Dassume_kernel=5.12.0` or newer, then a kernel with the `mount_setattr` syscall is required at runtime, and kernel headers with `__NR_mount_setattr` are required at build-time on most architectures. On the `x86_64`, `i386` and `aarch64` architectures, a fallback is provided to be able to compile with pre-5.12 kernel headers. (#756, #785)\r\n\r\nEnhancements:\r\n\r\n  * On kernels that support it (5.12+), use `mount_setattr()` to remount filesystems with `ro`, `nodev` and/or `nosuid`. (#756)\r\n\r\n  * Arguments that expect a path argument (`--bind`, `--overlay-src`, etc.) now reject empty strings. Previously they would sometimes be treated as the root directory due to implementation details, but this was unintended. (#771)\r\n\r\n  * A new build option `-Ddebug_logging=true` can be used to enable verbose debug logging (not recommended for distro builds). These debug messages don't appear unless environment variable `DEBUG_INVOCATION` is set at runtime.\r\n\r\nBug fixes:\r\n\r\n  * Fix build failures with older gcc or older `-std` argument (#773, #786)\r\n\r\n  * Fix build failure with musl (#782)\r\n\r\n  * Fix test failure on systems that lack hostname(1) (#775)\r\n\r\n  * Fix test failure on systems with a mount point containing a backslash (#778)\r\n\r\n  * Fix test failure on systems with older xdg-desktop-portal (#794)\r\n\r\n  * Don't leave a temporary file behind after running the test suite (#775)\r\n\r\n  * CI improvements\r\n\r\nThanks: abhinavmir, ao2, smcv, vaibhav8a, xxyzz\r\n\r\n```\r\n4734237473c0e5d695e4e9034a34e43b2dbf5164655bd13fa59ae376b2b7a765 *bubblewrap-0.13.0.tar.xz\r\n```\r\n```",
   "reactions": {
     "url": "https://api.github.com/repos/containers/bubblewrap/releases/393680741/reactions",
-    "total_count": 4,
+    "total_count": 6,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 4,
+    "hooray": 6,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
