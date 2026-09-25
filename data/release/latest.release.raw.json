@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 129260,
       "digest": "sha256:4734237473c0e5d695e4e9034a34e43b2dbf5164655bd13fa59ae376b2b7a765",
-      "download_count": 483,
+      "download_count": 767,
       "created_at": "2026-09-22T11:40:40Z",
       "updated_at": "2026-09-22T11:40:41Z",
       "browser_download_url": "https://github.com/containers/bubblewrap/releases/download/v0.13.0/bubblewrap-0.13.0.tar.xz"
