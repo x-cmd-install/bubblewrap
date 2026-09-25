@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,818 · **Forks**: 388 · **Open issues**: 397 · **Contributors**: 73
+- **Stars**: 8,826 · **Forks**: 389 · **Open issues**: 398 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 150 · **Open PRs**: 44 · **Closed issues**: 245 · **Open issues**: 152 · **Commits**: 745
+- **Releases**: 27 · **Merged PRs**: 150 · **Open PRs**: 45 · **Closed issues**: 245 · **Open issues**: 153 · **Commits**: 745
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 2 | 16 | 7 | 4 | 6 | 34 |
-| last60d | 2026-07-26 | 2 | 17 | 8 | 4 | 7 | 50 |
-| 90d | 2026-06-26 | 2 | 17 | 9 | 6 | 8 | 50 |
-| last180d | 2026-03-28 | 3 | 22 | 12 | 13 | 13 | 72 |
-| 360d | 2025-09-29 | 4 | 27 | 14 | 26 | 23 | 81 |
-| last720d | 2024-10-04 | 5 | 31 | 20 | 46 | 34 | 107 |
+| 30d | 2026-08-26 | 2 | 14 | 8 | 3 | 7 | 34 |
+| last60d | 2026-07-27 | 2 | 17 | 9 | 4 | 7 | 50 |
+| 90d | 2026-06-27 | 2 | 17 | 10 | 6 | 9 | 50 |
+| last180d | 2026-03-29 | 3 | 22 | 13 | 13 | 14 | 72 |
+| 360d | 2025-09-30 | 4 | 27 | 15 | 26 | 24 | 81 |
+| last720d | 2024-10-05 | 5 | 31 | 21 | 46 | 35 | 107 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:04:56Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:11:51Z._
