@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,855 · **Forks**: 389 · **Open issues**: 399 · **Contributors**: 73
+- **Stars**: 8,864 · **Forks**: 389 · **Open issues**: 399 · **Contributors**: 73
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 11 | 7 | 3 | 5 | 24 |
-| last60d | 2026-07-30 | 2 | 18 | 8 | 5 | 7 | 52 |
-| 90d | 2026-06-30 | 2 | 18 | 9 | 7 | 9 | 52 |
-| last180d | 2026-04-01 | 3 | 23 | 12 | 14 | 14 | 74 |
-| 360d | 2025-10-03 | 4 | 28 | 14 | 27 | 24 | 83 |
-| last720d | 2024-10-08 | 5 | 32 | 20 | 47 | 35 | 109 |
+| 30d | 2026-08-30 | 1 | 10 | 7 | 3 | 5 | 24 |
+| last60d | 2026-07-31 | 2 | 18 | 8 | 5 | 7 | 52 |
+| 90d | 2026-07-01 | 2 | 18 | 9 | 7 | 9 | 52 |
+| last180d | 2026-04-02 | 3 | 23 | 12 | 14 | 14 | 74 |
+| 360d | 2025-10-04 | 4 | 28 | 14 | 27 | 24 | 83 |
+| last720d | 2024-10-09 | 5 | 32 | 20 | 47 | 35 | 104 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:53:41Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:01:52Z._
