@@ -14,11 +14,11 @@ x install bubblewrap
 
 ## Code insight
 
-Total: **8,774** lines of code across **32** files in the top 5 languages.
+Total: **8,777** lines of code across **32** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 4,868 | 695 | 1,032 | 8 |
+| C | 4,871 | 695 | 1,031 | 8 |
 | Python | 1,409 | 112 | 293 | 6 |
 | Sh | 1,012 | 141 | 149 | 10 |
 | Xml | 675 | 0 | 6 | 1 |
@@ -41,34 +41,34 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.13.0` (2026-09-22)
-- **Last commit**: 2026-09-25
+- **Latest**: `v0.13.1` (2026-10-14)
+- **Last commit**: 2026-10-14
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 9,040 · **Forks**: 393 · **Open issues**: 401 · **Contributors**: 73
+- **Stars**: 9,056 · **Forks**: 393 · **Open issues**: 401 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 151 · **Open PRs**: 51 · **Closed issues**: 246 · **Open issues**: 155 · **Commits**: 747
+- **Releases**: 28 · **Merged PRs**: 152 · **Open PRs**: 50 · **Closed issues**: 246 · **Open issues**: 155 · **Commits**: 750
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 7 | 10 | 3 | 5 | 7 |
-| last60d | 2026-08-15 | 2 | 18 | 15 | 5 | 9 | 40 |
-| 90d | 2026-07-16 | 2 | 18 | 15 | 5 | 11 | 52 |
-| last180d | 2026-04-17 | 3 | 23 | 19 | 12 | 16 | 68 |
-| 360d | 2025-10-19 | 4 | 28 | 21 | 26 | 26 | 83 |
-| last720d | 2024-10-24 | 5 | 29 | 27 | 47 | 37 | 94 |
+| 30d | 2026-09-15 | 2 | 5 | 8 | 3 | 5 | 10 |
+| last60d | 2026-08-16 | 3 | 19 | 14 | 5 | 9 | 43 |
+| 90d | 2026-07-17 | 3 | 19 | 14 | 5 | 11 | 55 |
+| last180d | 2026-04-18 | 4 | 24 | 18 | 12 | 16 | 71 |
+| 360d | 2025-10-20 | 5 | 29 | 20 | 25 | 26 | 86 |
+| last720d | 2024-10-25 | 6 | 30 | 26 | 47 | 37 | 97 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [bubblewrap-0.13.0.tar.xz](https://github.com/containers/bubblewrap/releases/download/v0.13.0/bubblewrap-0.13.0.tar.xz) | 126.2 KiB | `other` |
+| [bubblewrap-0.13.1.tar.xz](https://github.com/containers/bubblewrap/releases/download/v0.13.1/bubblewrap-0.13.1.tar.xz) | 126.4 KiB | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:15:45Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:59:37Z._
