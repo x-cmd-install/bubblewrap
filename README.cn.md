@@ -47,7 +47,7 @@ x install bubblewrap
 
 ## 流行度
 
-- **Star**: 9,158 · **Fork**: 399 · **开放 issue**: 402 · **贡献者**: 73
+- **Star**: 9,167 · **Fork**: 400 · **开放 issue**: 402 · **贡献者**: 73
 
 ## 累计统计
 
@@ -57,18 +57,37 @@ x install bubblewrap
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 2 | 9 | 1 | 5 | 3 |
-| last60d | 2026-08-23 | 3 | 19 | 14 | 5 | 10 | 41 |
-| 90d | 2026-07-24 | 3 | 19 | 15 | 5 | 11 | 55 |
-| last180d | 2026-04-25 | 3 | 23 | 19 | 12 | 15 | 67 |
-| 360d | 2025-10-27 | 5 | 29 | 21 | 25 | 26 | 86 |
-| last720d | 2024-11-01 | 5 | 30 | 24 | 47 | 38 | 94 |
+| 30d | 2026-09-23 | 1 | 2 | 8 | 1 | 4 | 3 |
+| last60d | 2026-08-24 | 3 | 19 | 14 | 5 | 10 | 41 |
+| 90d | 2026-07-25 | 3 | 19 | 15 | 5 | 11 | 55 |
+| last180d | 2026-04-26 | 3 | 23 | 19 | 12 | 14 | 67 |
+| 360d | 2025-10-28 | 5 | 29 | 21 | 25 | 26 | 86 |
+| last720d | 2024-11-02 | 5 | 30 | 24 | 47 | 38 | 94 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
 | [bubblewrap-0.13.1.tar.xz](https://github.com/containers/bubblewrap/releases/download/v0.13.1/bubblewrap-0.13.1.tar.xz) | 126.4 KiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/bubblewrap) 上共有 **219** 个发行版报告此项目。**28** 个 ✅ 已是最新上游版本，**165** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.13.1` | ✅ latest |
+| Debian 14 | `0.13.1` | ✅ latest |
+| Debian 13 | `0.12.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.11.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.9.0` | ⚠️ outdated |
+| Arch | `0.13.1` | ✅ latest |
+| Homebrew | `0.13.1` | ✅ latest |
+| Fedora rawhide | `0.13.1` | ✅ latest |
+| Nix unstable | `0.12.0` | ⚠️ outdated |
+| Void | `0.13.1` | ✅ latest |
+| Alpine edge | `0.13.1` | ✅ latest |
+| openSUSE Tumbleweed | `0.12.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -79,4 +98,4 @@ bubblewrap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:01:02Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:08:08Z._
