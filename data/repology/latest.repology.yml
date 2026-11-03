@@ -1,18 +1,3 @@
-- repo: pardus_21
-  subrepo: main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.4.1
-  origversion: 0.4.1-3
-  status: outdated
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
 - repo: adelie_current
   subrepo: system
   srcname: bubblewrap
@@ -26,19 +11,6 @@
     - maxcrees@me.com
   licenses:
     - LGPL-2.0+
-- repo: apertis_v2024
-  subrepo: v2024/target
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.8.0
-  origversion: 0.8.0-2+deb12u1+apertis0
-  status: outdated
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
 - repo: adelie_current
   subrepo: system
   srcname: bubblewrap
@@ -201,133 +173,131 @@
     - timo.teras@iki.fi
   licenses:
     - LGPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: main
-  srcname: bubblewrap
-  binname: bubblewrap-bash-completion
-  visiblename: bubblewrap-bash-completion
-  version: 0.8.0
-  origversion: 0.8.0-r1
-  status: outdated
-  summary: Bash completions for bubblewrap
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: main
-  srcname: bubblewrap
-  binname: bubblewrap-doc
-  visiblename: bubblewrap-doc
-  version: 0.8.0
-  origversion: 0.8.0-r1
-  status: outdated
-  summary: Unprivileged sandboxing tool (documentation)
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: main
-  srcname: bubblewrap
-  binname: bubblewrap-zsh-completion
-  visiblename: bubblewrap-zsh-completion
-  version: 0.8.0
-  origversion: 0.8.0-r1
-  status: outdated
-  summary: Zsh completions for bubblewrap
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: main
+- repo: gnuguix
   srcname: bubblewrap
   binname: bubblewrap
   visiblename: bubblewrap
-  version: 0.8.0
-  origversion: 0.8.0-r1
-  status: outdated
-  summary: Unprivileged sandboxing tool
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: main
-  srcname: bubblewrap
-  binname: bubblewrap-bash-completion
-  visiblename: bubblewrap-bash-completion
-  version: 0.8.0
-  origversion: 0.8.0-r1
-  status: outdated
-  summary: Bash completions for bubblewrap
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: main
-  srcname: bubblewrap
-  binname: bubblewrap-doc
-  visiblename: bubblewrap-doc
-  version: 0.8.0
-  origversion: 0.8.0-r1
-  status: outdated
-  summary: Unprivileged sandboxing tool (documentation)
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: main
-  srcname: bubblewrap
-  binname: bubblewrap-zsh-completion
-  visiblename: bubblewrap-zsh-completion
-  version: 0.8.0
-  origversion: 0.8.0-r1
-  status: outdated
-  summary: Zsh completions for bubblewrap
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: main
-  srcname: bubblewrap
-  binname: bubblewrap
-  visiblename: bubblewrap
-  version: 0.10.0
-  origversion: 0.10.0-r0
-  status: outdated
-  summary: Unprivileged sandboxing tool
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: main
-  srcname: bubblewrap
-  binname: bubblewrap-bash-completion
-  visiblename: bubblewrap-bash-completion
-  version: 0.10.0
-  origversion: 0.10.0-r0
-  status: outdated
-  summary: Bash completions for bubblewrap
-  maintainers:
-    - timo.teras@iki.fi
-  licenses:
-    - LGPL-2.0-or-later
-- repo: crux_38
-  subrepo: opt
-  srcname: bubblewrap
-  visiblename: bubblewrap
-  version: 0.13.1
+  version: 0.13.0
   origversion: null
-  status: newest
+  status: outdated
+  summary: Unprivileged sandboxing tool
+- repo: alpine_3_18
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap-bash-completion
+  visiblename: bubblewrap-bash-completion
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
+  summary: Bash completions for bubblewrap
+  maintainers:
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap-doc
+  visiblename: bubblewrap-doc
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
+  summary: Unprivileged sandboxing tool (documentation)
+  maintainers:
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap-zsh-completion
+  visiblename: bubblewrap-zsh-completion
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
+  summary: Zsh completions for bubblewrap
+  maintainers:
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap
+  visiblename: bubblewrap
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
   summary: Unprivileged sandboxing tool
   maintainers:
-    - tbier@posteo.de
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap-bash-completion
+  visiblename: bubblewrap-bash-completion
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
+  summary: Bash completions for bubblewrap
+  maintainers:
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap-doc
+  visiblename: bubblewrap-doc
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
+  summary: Unprivileged sandboxing tool (documentation)
+  maintainers:
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap-zsh-completion
+  visiblename: bubblewrap-zsh-completion
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
+  summary: Zsh completions for bubblewrap
+  maintainers:
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap
+  visiblename: bubblewrap
+  version: 0.10.0
+  origversion: 0.10.0-r0
+  status: outdated
+  summary: Unprivileged sandboxing tool
+  maintainers:
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: main
+  srcname: bubblewrap
+  binname: bubblewrap-bash-completion
+  visiblename: bubblewrap-bash-completion
+  version: 0.10.0
+  origversion: 0.10.0-r0
+  status: outdated
+  summary: Bash completions for bubblewrap
+  maintainers:
+    - timo.teras@iki.fi
+  licenses:
+    - LGPL-2.0-or-later
 - repo: alpine_3_20
   subrepo: main
   srcname: bubblewrap
@@ -723,6 +693,21 @@
     - fallback-mnt-aosc@repology
   categories:
     - admin
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.4.1
+  origversion: 0.4.1-3
+  status: outdated
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
 - repo: apertis_v2023
   subrepo: v2023/target
   srcname: bubblewrap
@@ -731,6 +716,19 @@
   visiblename: bubblewrap
   version: 0.4.1
   origversion: 0.4.1-3+apertis1
+  status: outdated
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+- repo: apertis_v2024
+  subrepo: v2024/target
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.8.0
+  origversion: 0.8.0-2+deb12u1+apertis0
   status: outdated
   maintainers:
     - pkg-utopia-maintainers@lists.alioth.debian.org
@@ -967,6 +965,21 @@
     - LGPL-2.0-or-later
   categories:
     - Unspecified
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
 - repo: centos_stream_10
   subrepo: BaseOS
   srcname: bubblewrap
@@ -996,6 +1009,17 @@
   summary: Unprivileged sandboxing tool
   licenses:
     - LGPL-2.1-or-later
+- repo: nix_stable_24_11
+  srcname: bubblewrap
+  visiblename: bubblewrap
+  version: 0.11.0
+  origversion: null
+  status: outdated
+  summary: Unprivileged sandboxing tool
+  maintainers:
+    - rschuetz17@gmail.com
+  licenses:
+    - LGPL-2.0-or-later
 - repo: chimera
   subrepo: main
   srcname: bubblewrap
@@ -1045,6 +1069,16 @@
   version: 0.11.0
   origversion: null
   status: outdated
+  summary: Unprivileged sandboxing tool
+  maintainers:
+    - tbier@posteo.de
+- repo: crux_38
+  subrepo: opt
+  srcname: bubblewrap
+  visiblename: bubblewrap
+  version: 0.13.1
+  origversion: null
+  status: newest
   summary: Unprivileged sandboxing tool
   maintainers:
     - tbier@posteo.de
@@ -1138,6 +1172,21 @@
     - smcv@debian.org
   categories:
     - admin
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.8.0
+  origversion: 0.8.0-2+deb12u1
+  status: outdated
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
 - repo: debian_14
   subrepo: forky/main
   srcname: bubblewrap
@@ -1209,36 +1258,6 @@
     - pkg-utopia-maintainers@lists.alioth.debian.org
     - gcs@debian.org
     - smcv@debian.org
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.4.1
-  origversion: 0.4.1-3
-  status: outdated
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
 - repo: eurolinux_9
   subrepo: baseos
   srcname: bubblewrap
@@ -1284,22 +1303,6 @@
   categories:
     - sys-apps
 - repo: fedora_39
-  subrepo: release
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-    - bubblewrap-debuginfo
-    - bubblewrap-debugsource
-  visiblename: bubblewrap
-  version: 0.7.0
-  origversion: 0.7.0-2.fc39
-  status: legacy
-  summary: Core execution tool for unprivileged containers
-  licenses:
-    - LGPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: updates
   srcname: bubblewrap
   binnames:
@@ -1310,6 +1313,22 @@
   version: 0.10.0
   origversion: 0.10.0-1.fc39
   status: outdated
+  summary: Core execution tool for unprivileged containers
+  licenses:
+    - LGPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+    - bubblewrap-debuginfo
+    - bubblewrap-debugsource
+  visiblename: bubblewrap
+  version: 0.7.0
+  origversion: 0.7.0-2.fc39
+  status: legacy
   summary: Core execution tool for unprivileged containers
   licenses:
     - LGPL-2.0-or-later
@@ -1375,21 +1394,6 @@
     - LGPL-2.0-or-later
   categories:
     - Unspecified
-- repo: kali_rolling
-  subrepo: main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
 - repo: fedora_43
   subrepo: updates
   srcname: bubblewrap
@@ -1499,14 +1503,6 @@
     - LGPL-2.1+
   categories:
     - sys-apps
-- repo: gnuguix
-  srcname: bubblewrap
-  binname: bubblewrap
-  visiblename: bubblewrap
-  version: 0.13.0
-  origversion: null
-  status: outdated
-  summary: Unprivileged sandboxing tool
 - repo: homebrew
   srcname: bubblewrap
   visiblename: bubblewrap
@@ -1521,6 +1517,21 @@
   origversion: null
   status: rolling
   summary: Unprivileged sandboxing tool for Linux
+- repo: kali_rolling
+  subrepo: main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
 - repo: kaos
   subrepo: main
   srcname: bubblewrap
@@ -1711,34 +1722,23 @@
 - repo: manjaro_stable
   subrepo: extra
   srcname: bubblewrap
-  binname: bubblewrap-suid
-  visiblename: bubblewrap-suid
+  binname: bubblewrap
+  visiblename: bubblewrap
   version: 0.8.0
   origversion: 0.8.0-1
   status: outdated
-  summary: Unprivileged sandboxing tool (setuid variant)
+  summary: Unprivileged sandboxing tool
   licenses:
     - GPL
 - repo: manjaro_stable
   subrepo: extra
   srcname: bubblewrap
-  binname: bubblewrap
-  visiblename: bubblewrap
+  binname: bubblewrap-suid
+  visiblename: bubblewrap-suid
   version: 0.8.0
   origversion: 0.8.0-1
   status: outdated
-  summary: Unprivileged sandboxing tool
-  licenses:
-    - GPL
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: bubblewrap
-  binname: bubblewrap
-  visiblename: bubblewrap
-  version: 0.8.0
-  origversion: 0.8.0-1
-  status: outdated
-  summary: Unprivileged sandboxing tool
+  summary: Unprivileged sandboxing tool (setuid variant)
   licenses:
     - GPL
 - repo: manjaro_testing
@@ -1750,6 +1750,17 @@
   origversion: 0.8.0-1
   status: outdated
   summary: Unprivileged sandboxing tool (setuid variant)
+  licenses:
+    - GPL
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: bubblewrap
+  binname: bubblewrap
+  visiblename: bubblewrap
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: outdated
+  summary: Unprivileged sandboxing tool
   licenses:
     - GPL
 - repo: manjaro_unstable
@@ -1767,17 +1778,6 @@
   srcname: bubblewrap
   visiblename: bubblewrap
   version: 0.8.0
-  origversion: null
-  status: outdated
-  summary: Unprivileged sandboxing tool
-  maintainers:
-    - rschuetz17@gmail.com
-  licenses:
-    - LGPL-2.0-or-later
-- repo: nix_stable_24_11
-  srcname: bubblewrap
-  visiblename: bubblewrap
-  version: 0.11.0
   origversion: null
   status: outdated
   summary: Unprivileged sandboxing tool
@@ -1829,21 +1829,6 @@
     - nix@dotlambda.de
   licenses:
     - LGPL-2.1-or-later
-- repo: pardus_21
-  subrepo: updates/main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.4.1
-  origversion: 0.4.1-3+deb11u1
-  status: outdated
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
 - repo: openeuler_22_03_lts_sp1
   srcname: bubblewrap
   binnames:
@@ -1924,21 +1909,6 @@
     - LGPLv2+
   categories:
     - Unspecified
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.12.0
-  origversion: 0.12.0-1~deb13u1
-  status: outdated
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
 - repo: openeuler_24_09
   srcname: bubblewrap
   binnames:
@@ -1955,6 +1925,21 @@
     - LGPLv2+
   categories:
     - Unspecified
+- repo: raspbian_stable
+  subrepo: main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.12.0
+  origversion: 0.12.0-1~deb13u1
+  status: outdated
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
 - repo: openeuler_25_03
   srcname: bubblewrap
   binnames:
@@ -2131,6 +2116,33 @@
     - LGPL-2.0-or-later
   categories:
     - Productivity/Security
+- repo: raspbian_testing
+  subrepo: main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: bubblewrap
+  visiblename: bubblewrap
+  version: 0.8.0
+  origversion: 0.8.0-150500.3.3.1
+  status: legacy
+  summary: Core execution tool for unprivileged containers
+  licenses:
+    - LGPL-2.0-or-later
+  categories:
+    - Productivity/Security
 - repo: opensuse_leap_15_6
   subrepo: updates/sle
   srcname: bubblewrap
@@ -2167,18 +2179,6 @@
     - LGPL-2.0-or-later
   categories:
     - Productivity/Security
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: bubblewrap
-  visiblename: bubblewrap
-  version: 0.8.0
-  origversion: 0.8.0-150500.3.3.1
-  status: legacy
-  summary: Core execution tool for unprivileged containers
-  licenses:
-    - LGPL-2.0-or-later
-  categories:
-    - Productivity/Security
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: bubblewrap
@@ -2207,6 +2207,51 @@
   summary: Unprivileged sandboxing tool
   licenses:
     - LGPL-2.1-or-later
+- repo: pardus_21
+  subrepo: main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.4.1
+  origversion: 0.4.1-3
+  status: outdated
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
+- repo: pardus_21
+  subrepo: updates/main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.4.1
+  origversion: 0.4.1-3+deb11u1
+  status: outdated
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.12.0
+  origversion: 0.12.0-1~deb13u1
+  status: outdated
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - admin
 - repo: parrot
   subrepo: parrot/main
   srcname: bubblewrap
@@ -2281,51 +2326,6 @@
   version: 0.12.0
   origversion: 0.12.0-1~deb13u1
   status: outdated
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.8.0
-  origversion: 0.8.0-2+deb12u1
-  status: outdated
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
-- repo: raspbian_stable
-  subrepo: main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.12.0
-  origversion: 0.12.0-1~deb13u1
-  status: outdated
-  maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - admin
-- repo: raspbian_testing
-  subrepo: main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.13.1
-  origversion: 0.13.1-1
-  status: newest
   maintainers:
     - pkg-utopia-maintainers@lists.alioth.debian.org
     - gcs@debian.org
@@ -2536,21 +2536,6 @@
   categories:
     - misc
 - repo: ubuntu_24_04
-  subrepo: noble/main
-  srcname: bubblewrap
-  binnames:
-    - bubblewrap
-  visiblename: bubblewrap
-  version: 0.9.0
-  origversion: 0.9.0-1build1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - gcs@debian.org
-    - smcv@debian.org
-  categories:
-    - misc
-- repo: ubuntu_24_04
   subrepo: noble-updates/main
   srcname: bubblewrap
   binnames:
@@ -2565,23 +2550,23 @@
     - smcv@debian.org
   categories:
     - misc
-- repo: ubuntu_25_04
-  subrepo: plucky/main
+- repo: ubuntu_24_04
+  subrepo: noble/main
   srcname: bubblewrap
   binnames:
     - bubblewrap
   visiblename: bubblewrap
-  version: 0.11.0
-  origversion: 0.11.0-2
+  version: 0.9.0
+  origversion: 0.9.0-1build1
   status: outdated
   maintainers:
-    - pkg-utopia-maintainers@lists.alioth.debian.org
+    - ubuntu-devel-discuss@lists.ubuntu.com
     - gcs@debian.org
     - smcv@debian.org
   categories:
     - misc
-- repo: ubuntu_25_10
-  subrepo: questing/main
+- repo: ubuntu_25_04
+  subrepo: plucky/main
   srcname: bubblewrap
   binnames:
     - bubblewrap
@@ -2606,6 +2591,21 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - gcs@debian.org
+    - smcv@debian.org
+  categories:
+    - misc
+- repo: ubuntu_25_10
+  subrepo: questing/main
+  srcname: bubblewrap
+  binnames:
+    - bubblewrap
+  visiblename: bubblewrap
+  version: 0.11.0
+  origversion: 0.11.0-2
+  status: outdated
+  maintainers:
+    - pkg-utopia-maintainers@lists.alioth.debian.org
     - gcs@debian.org
     - smcv@debian.org
   categories:
@@ -2687,32 +2687,6 @@
   summary: Unprivileged sandboxing tool
   licenses:
     - GNU Library General Public License, version 2.0 or later
-- repo: eurolinux_8
-  subrepo: baseos
-  srcname: bubblewrap
-  visiblename: bubblewrap
-  version: 0.3.0
-  origversion: 0.3.0-1.el8
-  status: legacy
-  summary: Core execution tool for unprivileged containers
-  licenses:
-    - LGPLv2+
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: bubblewrap
-  visiblename: bubblewrap
-  version: 0.4.0
-  origversion: 0.4.0-2.el8_10
-  status: outdated
-  summary: Core execution tool for unprivileged containers
-  licenses:
-    - LGPLv2+
-  categories:
-    - Unspecified
-  vulnerable: true
 - repo: almalinux_8
   subrepo: BaseOS
   srcname: bubblewrap
@@ -2808,6 +2782,32 @@
   version: 0.3.0
   origversion: 0.3.0-1.el7
   status: outdated
+  summary: Core execution tool for unprivileged containers
+  licenses:
+    - LGPLv2+
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: bubblewrap
+  visiblename: bubblewrap
+  version: 0.4.0
+  origversion: 0.4.0-2.el8_10
+  status: outdated
+  summary: Core execution tool for unprivileged containers
+  licenses:
+    - LGPLv2+
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: eurolinux_8
+  subrepo: baseos
+  srcname: bubblewrap
+  visiblename: bubblewrap
+  version: 0.3.0
+  origversion: 0.3.0-1.el8
+  status: legacy
   summary: Core execution tool for unprivileged containers
   licenses:
     - LGPLv2+
