@@ -47,7 +47,7 @@ x install bubblewrap
 
 ## 流行度
 
-- **Star**: 9,451 · **Fork**: 410 · **开放 issue**: 406 · **贡献者**: 72
+- **Star**: 9,461 · **Fork**: 410 · **开放 issue**: 406 · **贡献者**: 72
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install bubblewrap
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 0 | 7 | 0 | 5 | 0 |
-| last60d | 2026-09-12 | 2 | 8 | 17 | 3 | 10 | 15 |
-| 90d | 2026-08-13 | 3 | 19 | 20 | 5 | 14 | 47 |
-| last180d | 2026-05-15 | 3 | 21 | 23 | 10 | 17 | 61 |
-| 360d | 2025-11-16 | 5 | 28 | 26 | 23 | 28 | 86 |
-| last720d | 2024-11-21 | 5 | 30 | 29 | 43 | 41 | 94 |
+| 30d | 2026-10-13 | 1 | 0 | 7 | 0 | 5 | 0 |
+| last60d | 2026-09-13 | 2 | 8 | 17 | 3 | 10 | 15 |
+| 90d | 2026-08-14 | 3 | 19 | 20 | 5 | 14 | 47 |
+| last180d | 2026-05-16 | 3 | 21 | 23 | 10 | 17 | 61 |
+| 360d | 2025-11-17 | 5 | 28 | 26 | 23 | 27 | 86 |
+| last720d | 2024-11-22 | 5 | 30 | 29 | 43 | 41 | 94 |
 
 ## Release 资产
 
@@ -72,7 +72,7 @@ x install bubblewrap
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/bubblewrap) 上共有 **221** 个发行版报告此项目。**42** 个 ✅ 已是最新上游版本，**154** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/bubblewrap) 上共有 **219** 个发行版报告此项目。**43** 个 ✅ 已是最新上游版本，**151** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -84,7 +84,7 @@ x install bubblewrap
 | Arch | `0.13.1` | ✅ latest |
 | Homebrew | `0.13.1` | ✅ latest |
 | Fedora rawhide | `0.13.1` | ✅ latest |
-| Nix unstable | `0.12.0` | ⚠️ outdated |
+| Nix unstable | `0.13.1` | ✅ latest |
 | Void | `0.13.1` | ✅ latest |
 | Alpine edge | `0.13.1` | ✅ latest |
 | openSUSE Tumbleweed | `0.13.1` | ✅ latest |
@@ -98,4 +98,4 @@ bubblewrap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261111.yml` · 2026-11-11T06:43:08Z._
+_数据快照: `data/card/261112.yml` · 2026-11-12T07:42:34Z._

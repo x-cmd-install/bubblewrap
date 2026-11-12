@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,451 · **Forks**: 410 · **Open issues**: 406 · **Contributors**: 72
+- **Stars**: 9,461 · **Forks**: 410 · **Open issues**: 406 · **Contributors**: 72
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 0 | 7 | 0 | 5 | 0 |
-| last60d | 2026-09-12 | 2 | 8 | 17 | 3 | 10 | 15 |
-| 90d | 2026-08-13 | 3 | 19 | 20 | 5 | 14 | 47 |
-| last180d | 2026-05-15 | 3 | 21 | 23 | 10 | 17 | 61 |
-| 360d | 2025-11-16 | 5 | 28 | 26 | 23 | 28 | 86 |
-| last720d | 2024-11-21 | 5 | 30 | 29 | 43 | 41 | 94 |
+| 30d | 2026-10-13 | 1 | 0 | 7 | 0 | 5 | 0 |
+| last60d | 2026-09-13 | 2 | 8 | 17 | 3 | 10 | 15 |
+| 90d | 2026-08-14 | 3 | 19 | 20 | 5 | 14 | 47 |
+| last180d | 2026-05-16 | 3 | 21 | 23 | 10 | 17 | 61 |
+| 360d | 2025-11-17 | 5 | 28 | 26 | 23 | 27 | 86 |
+| last720d | 2024-11-22 | 5 | 30 | 29 | 43 | 41 | 94 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **221** distros on [repology.org](https://repology.org/project/bubblewrap). **42** are ✅ on the latest upstream release, **154** are ⚠️ on an older version.
+Reported by **219** distros on [repology.org](https://repology.org/project/bubblewrap). **43** are ✅ on the latest upstream release, **151** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,7 +84,7 @@ Reported by **221** distros on [repology.org](https://repology.org/project/bubbl
 | Arch | `0.13.1` | ✅ latest |
 | Homebrew | `0.13.1` | ✅ latest |
 | Fedora rawhide | `0.13.1` | ✅ latest |
-| Nix unstable | `0.12.0` | ⚠️ outdated |
+| Nix unstable | `0.13.1` | ✅ latest |
 | Void | `0.13.1` | ✅ latest |
 | Alpine edge | `0.13.1` | ✅ latest |
 | openSUSE Tumbleweed | `0.13.1` | ✅ latest |
@@ -98,4 +98,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:43:08Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:42:34Z._
