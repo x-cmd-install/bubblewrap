@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,555 · **Forks**: 413 · **Open issues**: 407 · **Contributors**: 72
+- **Stars**: 9,562 · **Forks**: 413 · **Open issues**: 407 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 152 · **Open PRs**: 58 · **Closed issues**: 246 · **Open issues**: 161 · **Commits**: 750
+- **Releases**: 28 · **Merged PRs**: 152 · **Open PRs**: 59 · **Closed issues**: 246 · **Open issues**: 161 · **Commits**: 750
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 7 | 0 | 5 | 0 |
-| last60d | 2026-09-20 | 2 | 3 | 16 | 2 | 10 | 5 |
-| 90d | 2026-08-21 | 3 | 19 | 21 | 5 | 15 | 42 |
-| last180d | 2026-05-23 | 3 | 21 | 25 | 10 | 18 | 60 |
-| 360d | 2025-11-24 | 5 | 28 | 28 | 21 | 28 | 86 |
-| last720d | 2024-11-29 | 5 | 30 | 31 | 42 | 42 | 94 |
+| 30d | 2026-10-21 | 0 | 0 | 8 | 0 | 5 | 0 |
+| last60d | 2026-09-21 | 2 | 2 | 17 | 2 | 10 | 5 |
+| 90d | 2026-08-22 | 3 | 19 | 22 | 5 | 15 | 42 |
+| last180d | 2026-05-24 | 3 | 21 | 26 | 10 | 18 | 60 |
+| 360d | 2025-11-25 | 5 | 28 | 29 | 21 | 28 | 86 |
+| last720d | 2024-11-30 | 5 | 30 | 32 | 42 | 42 | 94 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **217** distros on [repology.org](https://repology.org/project/bubblewrap). **45** are ✅ on the latest upstream release, **146** are ⚠️ on an older version.
+Reported by **218** distros on [repology.org](https://repology.org/project/bubblewrap). **45** are ✅ on the latest upstream release, **147** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:01:13Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:49:03Z._
