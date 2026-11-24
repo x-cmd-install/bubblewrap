@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,594 · **Forks**: 414 · **Open issues**: 407 · **Contributors**: 72
+- **Stars**: 9,608 · **Forks**: 415 · **Open issues**: 407 · **Contributors**: 72
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 8 | 0 | 5 | 0 |
-| last60d | 2026-09-24 | 1 | 1 | 16 | 0 | 9 | 0 |
-| 90d | 2026-08-25 | 3 | 18 | 22 | 5 | 15 | 0 |
-| last180d | 2026-05-27 | 3 | 21 | 26 | 10 | 18 | 0 |
-| 360d | 2025-11-28 | 5 | 28 | 29 | 21 | 28 | 0 |
-| last720d | 2024-12-03 | 5 | 30 | 32 | 42 | 42 | 94 |
+| 30d | 2026-10-25 | 0 | 0 | 8 | 0 | 5 | 0 |
+| last60d | 2026-09-25 | 1 | 1 | 16 | 0 | 9 | 3 |
+| 90d | 2026-08-26 | 3 | 16 | 22 | 4 | 15 | 27 |
+| last180d | 2026-05-28 | 3 | 21 | 26 | 9 | 18 | 60 |
+| 360d | 2025-11-29 | 5 | 28 | 29 | 21 | 28 | 86 |
+| last720d | 2024-12-04 | 5 | 30 | 32 | 42 | 42 | 94 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **216** distros on [repology.org](https://repology.org/project/bubblewrap). **45** are ✅ on the latest upstream release, **146** are ⚠️ on an older version.
+Reported by **216** distros on [repology.org](https://repology.org/project/bubblewrap). **46** are ✅ on the latest upstream release, **145** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for bubblewrap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:03:07Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:04:56Z._
