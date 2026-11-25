@@ -14,13 +14,13 @@ x install bubblewrap
 
 ## 代码洞察
 
-合计: **8,777** 行代码（覆盖前 5 种语言、共 **32** 个文件）。
+合计: **8,778** 行代码（覆盖前 5 种语言、共 **32** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | C | 4,871 | 695 | 1,031 | 8 |
 | Python | 1,409 | 112 | 293 | 6 |
-| Sh | 1,012 | 141 | 149 | 10 |
+| Sh | 1,013 | 141 | 149 | 10 |
 | Xml | 675 | 0 | 6 | 1 |
 | Meson | 363 | 6 | 37 | 7 |
 
@@ -31,8 +31,8 @@ x install bubblewrap
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -42,52 +42,33 @@ x install bubblewrap
 ## 发布
 
 - **最新版本**: `v0.13.1` (2026-10-14)
-- **最近提交**: 2026-10-14
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 9,608 · **Fork**: 415 · **开放 issue**: 407 · **贡献者**: 72
+- **Star**: 9,622 · **Fork**: 418 · **开放 issue**: 408 · **贡献者**: 72
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 152 · **开放 PR**: 59 · **已关闭 issue**: 246 · **开放 issue**: 161 · **提交数**: 750
+- **发布数**: 28 · **已合并 PR**: 153 · **开放 PR**: 59 · **已关闭 issue**: 246 · **开放 issue**: 162 · **提交数**: 751
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 8 | 0 | 5 | 0 |
-| last60d | 2026-09-25 | 1 | 1 | 16 | 0 | 9 | 3 |
-| 90d | 2026-08-26 | 3 | 16 | 22 | 4 | 15 | 27 |
-| last180d | 2026-05-28 | 3 | 21 | 26 | 9 | 18 | 60 |
-| 360d | 2025-11-29 | 5 | 28 | 29 | 21 | 28 | 86 |
-| last720d | 2024-12-04 | 5 | 30 | 32 | 42 | 42 | 94 |
+| 30d | 2026-10-26 | 0 | 1 | 8 | 0 | 6 | 1 |
+| last60d | 2026-09-26 | 1 | 2 | 16 | 0 | 9 | 4 |
+| 90d | 2026-08-27 | 2 | 17 | 22 | 4 | 16 | 28 |
+| last180d | 2026-05-29 | 3 | 22 | 26 | 8 | 18 | 61 |
+| 360d | 2025-11-30 | 5 | 29 | 29 | 21 | 29 | 87 |
+| last720d | 2024-12-05 | 5 | 31 | 32 | 42 | 43 | 95 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
 | [bubblewrap-0.13.1.tar.xz](https://github.com/containers/bubblewrap/releases/download/v0.13.1/bubblewrap-0.13.1.tar.xz) | 126.4 KiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/bubblewrap) 上共有 **216** 个发行版报告此项目。**46** 个 ✅ 已是最新上游版本，**145** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.13.1` | ✅ latest |
-| Debian 14 | `0.13.1` | ✅ latest |
-| Debian 13 | `0.12.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.11.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.0` | ⚠️ outdated |
-| Arch | `0.13.1` | ✅ latest |
-| Homebrew | `0.13.1` | ✅ latest |
-| Fedora rawhide | `0.13.1` | ✅ latest |
-| Nix unstable | `0.13.1` | ✅ latest |
-| Void | `0.13.1` | ✅ latest |
-| Alpine edge | `0.13.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.13.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -98,4 +79,4 @@ bubblewrap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:04:56Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:59:32Z._
